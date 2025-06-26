@@ -13,8 +13,6 @@ echo.
 echo Build complete! Check the 'build' folder for your executable.
 pause
 
-# build.sh (Linux/Mac shell script)
-#!/bin/bash
 echo "Building YiXuan Discord Bot Executable..."
 echo
 
