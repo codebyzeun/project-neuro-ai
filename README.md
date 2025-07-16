@@ -1,4 +1,4 @@
-# Neuro - Yixuan Discord Bot
+# Yixuan Discord Bot
 
 An unfiltered Discord AI bot powered by local LLM with a modern GUI launcher. Meet Yixuan your new favorite Discord companion with attitude!
 
